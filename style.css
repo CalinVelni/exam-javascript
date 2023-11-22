@@ -1,0 +1,22 @@
+:root {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    --custom-color: rgb(87, 87, 255);
+}
+
+button {
+    font-family: inherit;
+    color: white;
+    background-color: var(--custom-color);
+    border-radius: .3rem;
+    border-color: var(--custom-color);
+}
+
+p {
+    color: rgb(0, 129, 138);
+}
+
+li {
+    color: var(--custom-color);
+}
+
+
